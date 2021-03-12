@@ -9,11 +9,11 @@ This is a website for the company delani studio that outlines the following sect
 * Contact us
 * Socials
 
-#### By Melissa Wangui 
+#### By Charles Mulinga
+Continuing on my journey in CSS and JS
 ## Technologies used
-This webpage was created entirely by HTML5,CSS3 and JavaScript
+HTML,CSS and JavaScript
 ## Link to live webpage
-<https://melissa-koi.github.io/delaniStudio/>
-## License
-<https://github.com/melissa-koi/delaniStudio/blob/main/LICENSE><br>
-The license used is MIT
+<https://mulinga.github.io/delaniStudio/>
+## Copyright
+2021
