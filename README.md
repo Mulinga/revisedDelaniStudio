@@ -14,6 +14,6 @@ Continuing on my journey in CSS and JS
 ## Technologies used
 HTML,CSS and JavaScript
 ## Link to live webpage
-<https://mulinga.github.io/delaniStudio/>
+<https://mulinga.github.io/reviseddelaniStudio/>
 ## Copyright
 2021
