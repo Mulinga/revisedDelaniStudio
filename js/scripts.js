@@ -50,7 +50,7 @@ function validate() {
         alert("Please fill in all the fields");
         return false;
     }else{
-        let link="https://gmail.us1.list-manage.com/subscribe/post?u=70d5d821ac16afadc7dce3223&amp;id=6eb95e58bc"
+        let link="https://gmail.us1.list-manage.com/subscribe/post?u=1ccd475cc6588841f33b0640c&amp;id=899bb12773" 
         myForm.attr('action',link)
         myForm.attr('method' ,'post')
         let response = `${names} ,we have received your message. Thank you for reaching out to us!`
